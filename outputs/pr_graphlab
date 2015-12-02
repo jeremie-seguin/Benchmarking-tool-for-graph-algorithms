@@ -1,4 +1,4 @@
-page-rank using graphlab
+age-rank using graphlab
 
 ----1000---
 pr_1000 datset
@@ -21,5 +21,3 @@ time -> 1 min11.124sec
 
 ----10 million nodes---
 ///time 45.506 sec
-
- 

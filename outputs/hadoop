@@ -1,6 +1,38 @@
+
+---------------------------BFS-------------------------
+
+1000 nodes
+Average time (4 iterations) = 4 min 7.836 sec 
+
+1 million nodes
+Average time (4 iterations) = 10 min 11.44 sec 
+
+
+-------------------------Dijkstra------------------------
+
+
+1000 nodes
+Average time (4 iterations) = 3 min 5.655 sec 
+
+1 million nodes
+Average time (4 iterations) = 11 min 0.05 sec 
+
+
+--------------------------PageRank--------------------------
+
+
+1000 nodes
+Average time (4 iterations) = 5 min 12.111 sec 
+
+1 million nodes
+Average time (4 iterations) = 16 min 8.652 sec 
+
+
+-------------------------------------------------------------
+
 -------------------------------------------------------
-BFS performed on data set with 1000 nodes             |
-Time taken, %CPU used and % memory used are shown     |
+|BFS performed on data set with 1000 nodes             |
+|Time taken, %CPU used and % memory used are shown     |
 -------------------------------------------------------
 
 time 4m7.836s 
@@ -142,3 +174,4 @@ column 3 -- %memory used
    259	0.0 3.6
    261	0.5 3.6
    263	0.0 3.6
+
